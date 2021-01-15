@@ -16,12 +16,17 @@
 - 計分制
 - 記生命(生命歸零就game over)
 - 闖過過關和碰到障礙物都會發出聲音
+- 結束畫面
+    - 勝利
+    - 失敗
 # 附加檔案
 ---
 - Final Project影片.mp4
+    - FPGA的呈現與說明
 - flappy_2.v 
-    - verilog 格式的檔案
+    - verilog 格式的完整code檔案
 - flappy_bird_code.txt
+    - 文字檔案格式的完整code
 # 詳細說明
 ---
 - 模組說明看文字檔案的註釋
